@@ -9,7 +9,7 @@
  *     }
  * }
  */
-class AddTwoNumbers {
+class Question2 {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var carry = 0
         var node1 = l1
